@@ -10,6 +10,5 @@ I work with **C++**, **Java**, **Go**, and web technologies.
 | --- | --- |
 | [Falcon](https://github.com/Falcon-MC/Falcon) | A Bedrock server written from scratch in C++, with its own networking, NBT, and world storage libraries. |
 | [Amethyst](https://github.com/NaySurGithub/Amethyst) | A prediction-based anti-cheat for PowerNukkitX. It simulates player movement on the server and compares it with what the client reports. |
-| [KeyboardToAndroid](https://github.com/NaySurGithub/KeyboardToAndroid) | Type on an Android phone from your PC keyboard over ADB. |
 
 [Browse my repositories](https://github.com/NaySurGithub?tab=repositories) · [Falcon website](https://falcon-mc.github.io/)
