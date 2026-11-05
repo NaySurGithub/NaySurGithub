@@ -8,8 +8,6 @@ I build software for **Minecraft: Bedrock Edition**, from network protocols and 
 | --- | --- |
 | [Falcon](https://github.com/Falcon-MC/Falcon) | A Bedrock server written from scratch in C++, with its own networking, NBT, and world storage libraries. |
 | [Amethyst](https://github.com/NaySurGithub/Amethyst) | A prediction-based anti-cheat for PowerNukkitX. It simulates player movement on the server and compares it with what the client reports. |
-| [Bedrock Packs](https://github.com/NaySurGithub/bedrock-packs) | A browser workspace for Bedrock resource packs, powered by WebAssembly and Falcon. |
-| [CaveBlock](https://github.com/NaySurGithub/CaveBlock) | A PowerNukkitX plugin that lets you see through blocks and the rock behind them. |
 
 ## Open source
 
